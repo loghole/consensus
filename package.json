@@ -1,0 +1,23 @@
+{
+  "name": "@loghole/consensus",
+  "version": "1.0.0",
+  "description": "tabs consensus",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loghole/consensus.git"
+  },
+  "keywords": [
+    "tabs",
+    "consesnsus"
+  ],
+  "author": "loghole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loghole/consensus/issues"
+  },
+  "homepage": "https://github.com/loghole/consensus#readme"
+}
