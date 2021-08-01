@@ -1,0 +1,29 @@
+{
+  "name": "@loghole/consensus",
+  "version": "1.0.0",
+  "description": "tabs consensus",
+  "main": "index.js",
+  "scripts": {
+    "test": "exit 0",
+    "lint": "eslint --fix index.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/loghole/consensus.git"
+  },
+  "keywords": [
+    "tabs",
+    "consesnsus"
+  ],
+  "author": "loghole",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/loghole/consensus/issues"
+  },
+  "homepage": "https://github.com/loghole/consensus#readme",
+  "devDependencies": {
+    "eslint": "^7.32.0",
+    "eslint-config-airbnb-base": "^14.2.1",
+    "eslint-plugin-import": "^2.23.4"
+  }
+}
