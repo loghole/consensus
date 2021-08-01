@@ -1,10 +1,9 @@
 {
   "name": "@loghole/consensus",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "tabs consensus",
   "main": "index.js",
   "scripts": {
-    "test": "exit 0",
     "lint": "eslint --fix index.js"
   },
   "repository": {
@@ -13,7 +12,8 @@
   },
   "keywords": [
     "tabs",
-    "consesnsus"
+    "consesnsus",
+    "sse"
   ],
   "author": "loghole",
   "license": "MIT",
